@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ACC9EBC8-A86B-486A-9FAA-155E3A9EA288</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DRMDecrypt</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E483CBBF-1BD3-47B7-BD28-0895B198B847</key>
+		<string>https://github.com/marvin0815/drmdecrypt.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DRMDecrypt.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>058AF5A6-E2DB-4CA0-8A86-33A453641C04</key>
+		<string>../../../DRMDecrypt</string>
+		<key>E483CBBF-1BD3-47B7-BD28-0895B198B847</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/marvin0815/drmdecrypt.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E483CBBF-1BD3-47B7-BD28-0895B198B847</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E483CBBF-1BD3-47B7-BD28-0895B198B847</string>
+			<key>IDESourceControlWCCName</key>
+			<string>drmdecrypt</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>058AF5A6-E2DB-4CA0-8A86-33A453641C04</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DRMDecrypt</string>
+		</dict>
+	</array>
+</dict>
+</plist>
